@@ -8,8 +8,9 @@ See [canvas](https://canvas.ucsd.edu/courses/52400/assignments/756956).
 - [x] Week 2
   - [x] Write a centroid algorithm
   - [x] Find the wavelength solution of the spectrometer
-  - [ ] Error propagation to linear least-squares (lab manual page 6)
-    - Note: not in key-steps and lab manual is never explicit in saying we need to, but the scientific writing guide says to never present a number without its associated error, so this is probably necessary
+    - [x] write linear least-squares algorithm
+    - [ ] Error propagation to linear least-squares (lab manual page 6)
+      - Note: not in key-steps and lab manual is never explicit in saying we need to, but the scientific writing guide says to never present a number without its associated error, so this is probably necessary
 - [ ] Week 3
   - [ ] Reduce spectral science frames from the KAST spectrograph (lab manual page 9)
     - Note: we probably only need to do this for 2 fits files
