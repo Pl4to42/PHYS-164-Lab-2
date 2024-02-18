@@ -18,7 +18,7 @@ See [canvas](https://canvas.ucsd.edu/courses/52400/assignments/756956).
     - [ ] flat field correction
   - [ ] Extract 1-dimentional spectrum of *at least* two astronomical sources and compare and contrast these spectra BRIGETTE/TIFFANY
   - [ ] Apply a rough wavelength solution to the KAST spectrograph and illustrate the spectra with units of wavelength BHAVYA
-    - Note: we will need to find the solution fit to the KAST spectrograph specifically, so this requires using some KAST data to identify peaks and make a new fitting function, a repeat of the steps in 
+    - Note: we will need to find the solution fit to the KAST spectrograph specifically, so this requires using some KAST data to identify peaks and make a new fitting function, a repeat of the steps in week 2
 
 ## Timeline
 
