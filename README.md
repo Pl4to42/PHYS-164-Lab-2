@@ -9,7 +9,7 @@ See [canvas](https://canvas.ucsd.edu/courses/52400/assignments/756956).
   - [x] Write a centroid algorithm
   - [x] Find the wavelength solution of the spectrometer
     - [x] write linear least-squares algorithm
-    - [ ] Error propagation to linear least-squares (lab manual page 6) EVERETT
+    - [x] Error propagation to linear least-squares (lab manual page 6) EVERETT
       - Note: not in key-steps and lab manual is never explicit in saying we need to, but the scientific writing guide says to never present a number without its associated error, so this is probably necessary
 - [ ] Week 3
   - [ ] Reduce spectral science frames from the KAST spectrograph (lab manual page 9) BRIGETTE/TIFFANY
@@ -22,7 +22,7 @@ See [canvas](https://canvas.ucsd.edu/courses/52400/assignments/756956).
 
 ## Timeline
 
-Monday: Everett finishes his section
+~~Monday: Everett finishes his section~~
 
 Wednesday: Tiffany and Brigette finish their sections
 
